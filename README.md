@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on JAVA , TypeScript  , Next JS  <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Projects on practical works<br>🌱 I’m currently learning Next js.
+🔭 I’m currently working on JAVA , TypeScript  , Next JS , Pyhton and AI/ML <br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with Projects on practical works<br>🌱 I’m currently learning Next js.
 
 
 ## 🌐 Socials:
