@@ -8,7 +8,7 @@
   <a href="https://linkedin.com/in/mukarram-razzaq-0146572ba">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mukarramrazzaq.me">
+  <a href="https://profile-git-main-mukarram-razzaqs-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mukrram2003@gmail.com">
