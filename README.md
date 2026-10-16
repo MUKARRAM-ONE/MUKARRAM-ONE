@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mukarram%20Razzaq&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="30" height="30" /> Full Stack AI Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="30" height="30" /> DevOps & Cloud Enthusiast | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> Problem Solver
+### <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f9e0.png" alt="Brain" width="30" height="30" /> Full Stack AI Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="30" height="30" /> DevOps & Cloud Enthusiast | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> Problem Solver
 
 <p align="center">
   <a href="https://linkedin.com/in/mukarram-razzaq-0146572ba">
@@ -22,11 +22,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line divider">
 
-<<<<<<< HEAD
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> About Me
-=======
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> About Me
->>>>>>> origin/main
 
 <table>
   <tr>
