@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Mukarram%20Razzaq&fontSize=60&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Backend%20%7C%20DevOps&descAlignY=55&descAlign=50" width="100%" alt="Header Banner" />
 
-### 🧠 Full Stack AI Engineer | ☁️ DevOps & Cloud Enthusiast | 🔧 Problem Solver
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Brain.png" alt="Brain" width="30" height="30" /> Full Stack AI Engineer | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="30" height="30" /> DevOps & Cloud Enthusiast | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Wrench" width="30" height="30" /> Problem Solver
 
 <p align="center">
   <a href="https://linkedin.com/in/mukarram-razzaq-0146572ba">
@@ -20,22 +20,33 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line divider">
 
-## ⚡ About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> About Me
 
-I am a **Final-year Software Engineering** student and a passionate tech lover focused on bridging the gap between Machine Learning, Backend Systems, and DevOps. I thrive in dynamic environments where I can train AI models, serve them through lightning-fast APIs, and deploy them on scalable cloud infrastructures.
+<table>
+  <tr>
+    <td width="60%">
+      I am a <b>Final-year Software Engineering</b> student and a passionate tech lover focused on bridging the gap between Machine Learning, Backend Systems, and DevOps. I thrive in dynamic environments where I can train AI models, serve them through lightning-fast APIs, and deploy them on scalable cloud infrastructures.
+      <br><br>
+      <ul>
+        <li>🔭 <b>Currently working as:</b> Full Stack AI Engineer at Iqra University.</li>
+        <li>🌱 <b>Deep diving into:</b> Advanced Agentic AI Workflows, Cloud Native Architectures, and MLOps.</li>
+        <li>👯 <b>Looking to collaborate on:</b> Open-source AI tools, scalable web applications, and DevOps pipelines.</li>
+        <li>💬 <b>Ask me about:</b> Python, FastAPI, Docker, PyTorch, and Cloud Deployments.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation GIF" width="100%" style="border-radius: 10px;" />
+    </td>
+  </tr>
+</table>
 
-- 🔭 **Currently working as:** Full Stack AI Engineer at Iqra University.
-- 🌱 **Deep diving into:** Advanced Agentic AI Workflows, Cloud Native Architectures, and MLOps.
-- 👯 **Looking to collaborate on:** Open-source AI tools, scalable web applications, and DevOps pipelines.
-- 💬 **Ask me about:** Python, FastAPI, Docker, PyTorch, and Cloud Deployments.
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line divider">
 
----
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Toolbox.png" alt="Toolbox" width="35" height="35" /> Tech Stack & Arsenal
 
-## 🛠️ Tech Stack & Arsenal
-
-### 🧠 AI & Machine Learning
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> AI & Machine Learning
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -44,7 +55,7 @@ I am a **Final-year Software Engineering** student and a passionate tech lover f
 </p>
 <p><b>Tools & Concepts:</b> YOLO, OCR, CNNs, Agentic AI, OpenAI SDK, Gemini, Claude, Spec-Kit Plus</p>
 
-### 💻 Languages & Frameworks
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Languages & Frameworks
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -52,7 +63,7 @@ I am a **Final-year Software Engineering** student and a passionate tech lover f
   </a>
 </p>
 
-### 🗄️ Data & Databases
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="25" height="25" /> Data & Databases
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -61,7 +72,7 @@ I am a **Final-year Software Engineering** student and a passionate tech lover f
 </p>
 <p><b>Data Tools:</b> Pandas, NumPy, Matplotlib, Plotly, SQL Server</p>
 
-### ☁️ DevOps, Cloud & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> DevOps, Cloud & Tools
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -69,11 +80,11 @@ I am a **Final-year Software Engineering** student and a passionate tech lover f
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line divider">
 
-## 💼 Experience Journey
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="35" height="35" /> Experience Journey
 
-### 🏢 Full Stack AI Engineer | _Iqra University (Onsite)_
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Office%20Building.png" alt="Office Building" width="25" height="25" /> Full Stack AI Engineer | _Iqra University (Onsite)_
 
 > 📅 **Apr 2026 – Present**
 >
@@ -81,23 +92,23 @@ I am a **Final-year Software Engineering** student and a passionate tech lover f
 > - Building high-performance RESTful APIs (**FastAPI**, **Django**, Flask) connecting ML models to frontends for real-time predictions.
 > - Collaborating across React, Next.js, ASP.NET Core, and Spring Boot codebases.
 
-### ⚙️ DevOps Engineer Intern | _Wenawa (Hybrid)_
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> DevOps Engineer Intern | _Wenawa (Hybrid)_
 
 > 📅 **Mar 2026 – May 2026**
 >
 > - Supported CI/CD automation with **Jenkins** and managed containerized deployments using **Docker** and **Kubernetes** on AWS, Azure, and GCP.
 > - Configured observability and logging using **Prometheus** and **Grafana** to monitor system stability.
 
-### 🤖 Machine Learning Intern | _Arch Technologies (Remote)_
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> Machine Learning Intern | _Arch Technologies (Remote)_
 
 > 📅 **Jun 2025 – Aug 2025**
 >
 > - Engineered and tested robust ML pipelines using **Python**, **Scikit-Learn**, and **TensorFlow**.
 > - Improved model accuracy and performance through comprehensive data preprocessing techniques.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line divider">
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
 
 | Project                                    | Description                                                                                                 | Tech Stack                                                     |
 | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
@@ -106,15 +117,22 @@ I am a **Final-year Software Engineering** student and a passionate tech lover f
 | 👁️ **Facial Emotion & Gender Recognition** | Real-time emotion and gender detection deployed via a Streamlit interface.                                  | `Python`, `PyTorch`, `TensorFlow`, `OpenCV`, `YOLO`            |
 | 🤖 **AI Spec-Driven Development**          | Automated agentic workflow converting natural language specs into documentation and code tasks.             | `OpenAI SDK`, `Agentic AI`, `Python`, `Docusaurus`             |
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line divider">
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MUKARRAM-ONE&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUKARRAM-ONE&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUKARRAM-ONE&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <br><br>
+  <!-- GitHub Contribution Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUKARRAM-ONE/MUKARRAM-ONE/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUKARRAM-ONE/MUKARRAM-ONE/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MUKARRAM-ONE/MUKARRAM-ONE/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
 
 <br>
