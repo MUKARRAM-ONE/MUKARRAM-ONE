@@ -48,37 +48,23 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="25" height="25" /> AI & Machine Learning
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit,opencv&theme=dark" alt="AI/ML" />
-  </a>
-</p>
+[![AI/ML](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv&theme=dark)](https://skillicons.dev)
+
 <p><b>Tools & Concepts:</b> YOLO, OCR, CNNs, Agentic AI, OpenAI SDK, Gemini, Claude, Spec-Kit Plus</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Languages & Frameworks
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,java,fastapi,django,flask,nodejs,react,spring,dotnet&theme=dark" alt="Languages & Frameworks" />
-  </a>
-</p>
+[![Languages & Frameworks](https://skillicons.dev/icons?i=python,ts,js,java,fastapi,django,flask,nodejs,react,spring,dotnet&theme=dark)](https://skillicons.dev)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="File Cabinet" width="25" height="25" /> Data & Databases
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark" alt="Databases" />
-  </a>
-</p>
+[![Databases](https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb&theme=dark)](https://skillicons.dev)
+
 <p><b>Data Tools:</b> Pandas, NumPy, Matplotlib, Plotly, SQL Server</p>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Cloud.png" alt="Cloud" width="25" height="25" /> DevOps, Cloud & Tools
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,azure,gcp,jenkins,githubactions,nginx,prometheus,grafana&theme=dark" alt="DevOps" />
-  </a>
-</p>
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,linux,aws,azure,gcp,jenkins,githubactions,nginx,prometheus,grafana&theme=dark)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4520-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Animated glowing line divider">
 
